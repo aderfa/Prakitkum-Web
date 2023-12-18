@@ -2,6 +2,16 @@
   color: red;
 }
 
+.container {
+  display: flex;
+}
+.container div {
+  background: peachpuff;
+  border: 5px solid brown;
+  height: 100px;
+  flex: 1;
+}
+
 .kotak-satu {
   padding: 20px;
   margin: 10;
